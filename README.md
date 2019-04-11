@@ -14,7 +14,7 @@
 注：关于GPU选择的部分，[《Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning》](http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)写的很好。这篇文章也在2019年4月被翻译成了[中文版](http://blog.itpub.net/31562039/viewspace-2641060/)。
 
 1. [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)：在线深度学习神器。
-2. [JupyterLab](7https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)：Jupyter Notebook的增强版本。
+2. [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)：Jupyter Notebook的增强版本。
 3. [DeepmindLab](https://github.com/deepmind/lab)：AI训练实验平台。![](https://img.shields.io/github/stars/deepmind/lab.svg)
 
 ## 神经网络可视化
