@@ -27,24 +27,14 @@
 ## 编程语言
 
 1. [PythonTutor](http://www.pythontutor.com/)：代码可视化（Python、JS、Ruby等等）。![](https://img.shields.io/github/stars/pgbovine/OnlinePythonTutor.svg)
-2. [UbuntuPaste](https://paste.ubuntu.com/)：代码发布，方便阅读。
-3. [Dooccn](http://www.dooccn.com)：各种语言的在线编译器。
+2. [Awesome Data Science with Python](https://github.com/r0f1/datascience)：用Python玩数据科学的资源（库、讲义、代码段、博客等）![](https://img.shields.io/github/stars/r0f1/datascience.svg)
+3. [UbuntuPaste](https://paste.ubuntu.com/)：代码发布，方便阅读。
+4. [Dooccn](http://www.dooccn.com)：各种语言的在线编译器。
 
 ## 数据结构
 
 1. [Visualgo](https://visualgo.net/zh)：数据结构可视化。
 
-## 工具包
-
-（不同领域的工具包太多了，自己只关注一小部分，如果以后有别人参与的话，各个领域单独做文件夹比较好。）
-
-1. [OpenAI Gym](https://gym.openai.com/)：用于研发和比较强化学习算法的工具包。
-
-## 课程和学习资源
-
-1. 李沐：[《动手学深度学习》](https://zh.gluon.ai/)![](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg)
-2. 邱锡鹏：[《神经网络与深度学习》](https://nndl.github.io/)![](https://img.shields.io/github/stars/nndl/nndl.github.io.svg)
-
 ## 说明
 
-如果您对此项目感兴趣，请持续关注，也欢迎补充完善，提交issue~
+如果您对此项目感兴趣，请持续关注，也欢迎补充完善。
