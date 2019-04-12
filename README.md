@@ -22,6 +22,12 @@
 
 1. [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：Googler总结的开发工具合集。![](https://img.shields.io/github/stars/jhuangtw-dev/xg2xg.svg)
 
+## 数据集标注工具
+
+1. [LabelImg](https://github.com/tzutalin/labelImg)：目标检测（图片）标注工具。![](https://img.shields.io/github/stars/tzutalin/labelImg.svg)
+2. [精灵标注助手](http://www.jinglingbiaozhu.com/)：支持图像/文本/视频等多种标注形式。
+3. [LC-Finder](https://github.com/lc-soft/LC-Finder)：支持图像标注和目标检测的图片管理工具。![](https://img.shields.io/github/stars/lc-soft/LC-Finder.svg)
+
 ## 神经网络可视化
 
 1. [Tensorflow Playground](http://playground.tensorflow.org/)：Google可视化体验平台，用浏览器玩的神经网络。![](https://img.shields.io/github/stars/tensorflow/playground.svg)
