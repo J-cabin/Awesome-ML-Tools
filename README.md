@@ -18,6 +18,10 @@
 2. [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)：Jupyter Notebook的增强版本。
 3. [DeepmindLab](https://github.com/deepmind/lab)：AI训练实验平台。![](https://img.shields.io/github/stars/deepmind/lab.svg)
 
+## 开发工具
+
+1. [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：Googler总结的开发工具合集。![](https://img.shields.io/github/stars/jhuangtw-dev/xg2xg.svg)
+
 ## 神经网络可视化
 
 1. [Tensorflow Playground](http://playground.tensorflow.org/)：Google可视化体验平台，用浏览器玩的神经网络。![](https://img.shields.io/github/stars/tensorflow/playground.svg)
