@@ -38,12 +38,15 @@
 
 1. [PythonTutor](http://www.pythontutor.com/)：代码可视化（Python、JS、Ruby等等）。![](https://img.shields.io/github/stars/pgbovine/OnlinePythonTutor.svg)
 2. [Awesome Data Science with Python](https://github.com/r0f1/datascience)：用Python玩数据科学的资源（库、讲义、代码段、博客等）![](https://img.shields.io/github/stars/r0f1/datascience.svg)
-3. [UbuntuPaste](https://paste.ubuntu.com/)：代码发布，方便阅读。
-4. [Dooccn](http://www.dooccn.com)：各种语言的在线编译器。
+3. [Ubuntu Pastebin](https://paste.ubuntu.com/)：代码发布，方便阅读。
+4. [Try It Online](https://tio.run/#)：在线编译器，可以分享代码，支持几百种语言。
+5. [Dooccn](http://www.dooccn.com)：各种常用语言的在线编译器。
 
-## 数据结构
+## 数据结构与算法
 
 1. [Visualgo](https://visualgo.net/zh)：数据结构可视化。
+2. [USF](https://www.cs.usfca.edu/~galles/visualization/)/[Algomation](http://www.algomation.com/)/[Algorithm Visualizer](https://algorithm-visualizer.org/)：算法可视化。
+3. [Graph Editor](https://csacademy.com/app/graph_editor/)：图论画板。
 
 ## 说明
 
