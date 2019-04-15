@@ -48,6 +48,10 @@
 2. [USF](https://www.cs.usfca.edu/~galles/visualization/)/[Algomation](http://www.algomation.com/)/[Algorithm Visualizer](https://algorithm-visualizer.org/)：算法可视化。
 3. [Graph Editor](https://csacademy.com/app/graph_editor/)：图论画板。
 
+## 其他
+
+1. [bestofml](https://bestofml.com/)：机器学习领域的精选书籍/课程/招聘网站/新闻博客/论文。
+
 ## 说明
 
 如果您对此项目感兴趣，请持续关注，也欢迎补充完善。
