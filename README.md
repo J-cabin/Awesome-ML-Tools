@@ -21,6 +21,7 @@
 ## 开发工具
 
 1. [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：Googler总结的开发工具合集。![](https://img.shields.io/github/stars/jhuangtw-dev/xg2xg.svg)
+2. [aiXcoder](https://www.aixcoder.com/#/)：Tensorflow代码自动补全插件。
 
 ## 数据集标注工具
 
