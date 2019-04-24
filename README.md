@@ -9,6 +9,7 @@
 1. [Paperswithcode](https://paperswithcode.com/)：论文+配套数据集，查找论文对应开源代码的神器。
 2. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
 3. [Datasetsearch](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
+4. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
 
 ## 开发环境
 
