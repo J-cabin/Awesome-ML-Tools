@@ -6,10 +6,11 @@
 
 ## 数据集
 
-1. [Paperswithcode](https://paperswithcode.com/)：论文+配套数据集，查找论文对应开源代码的神器。
-2. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
-3. [Datasetsearch](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
-4. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
+1. [Papers with code](https://paperswithcode.com/)：论文+配套数据集，查找论文对应开源代码的神器。
+2. [Papers with code (Sorted by stars)](https://github.com/zziz/pwc)：收集了 AI 领域从 2013 - 2018 年所有的论文，并按照在 GitHub 上的标星数量进行排序。![](https://img.shields.io/github/stars/zziz/pwc.svg)
+3. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
+4. [Datasetsearch](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
+5. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
 
 ## 开发环境
 
@@ -53,6 +54,8 @@
 ## 其他
 
 1. [bestofml](https://bestofml.com/)：机器学习领域的精选书籍/课程/招聘网站/新闻博客/论文。
+2. [arxiv](https://arxiv.org/list/stat.ML/recent?ref=bestofml.com)：论文预印网站。
+3. [arxiv-sanity-preserver](http://www.arxiv-sanity.com/)：Arxiv论文分类、搜索和过滤。![](https://img.shields.io/github/stars/karpathy/arxiv-sanity-preserver.svg)
 
 ## 说明
 
