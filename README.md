@@ -10,7 +10,8 @@
 2. [Papers with code (Sorted by stars)](https://github.com/zziz/pwc)：收集了 AI 领域从 2013 - 2018 年所有的论文，并按照在 GitHub 上的标星数量进行排序。![](https://img.shields.io/github/stars/zziz/pwc.svg)
 3. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
 4. [Datasetsearch](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
-5. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
+5. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet)：AI研习社汇总的数据集（各类）。
+6. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
 
 ## 开发环境
 
