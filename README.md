@@ -20,6 +20,7 @@
 1. [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)：在线深度学习神器。
 2. [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)：Jupyter Notebook的增强版本。
 3. [DeepmindLab](https://github.com/deepmind/lab)：AI训练实验平台。![](https://img.shields.io/github/stars/deepmind/lab.svg)
+4. [Nextjournal](https://nextjournal.com/)：自带模板、支持多语言、版本控制、多人协作、GPU可用、在线求助等功能的实验平台。
 
 ## 开发工具
 
