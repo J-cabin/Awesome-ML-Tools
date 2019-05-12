@@ -34,7 +34,8 @@
 
 1. [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：Googler总结的开发工具合集。![](https://img.shields.io/github/stars/jhuangtw-dev/xg2xg.svg)
 2. [aiXcoder](https://www.aixcoder.com/#/)：Tensorflow代码自动补全插件（PyCharm）。
-3. [jupytext](https://github.com/mwouts/jupytext)：多格式导出，Jupyter Notebook与IDE联合开发神器。![](https://img.shields.io/github/stars/mwouts/jupytext.svg)
+3. [nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)：Jupyter Notebook插件合集。![](https://img.shields.io/github/stars/ipython-contrib/jupyter_contrib_nbextensions.svg)
+4. [jupytext](https://github.com/mwouts/jupytext)：多格式导出，Jupyter Notebook与IDE联合开发神器。![](https://img.shields.io/github/stars/mwouts/jupytext.svg)
 
 ## 数据集标注工具
 
