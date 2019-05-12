@@ -56,6 +56,7 @@
 3. [Ubuntu Pastebin](https://paste.ubuntu.com/)：代码发布，方便阅读。
 4. [Try It Online](https://tio.run/#)：在线编译器，可以分享代码，支持几百种语言。
 5. [Dooccn](http://www.dooccn.com)：各种常用语言的在线编译器。
+6. [CodeIf](https://unbug.github.io/codelf/)：让你的变量命名不再纠结。![](https://img.shields.io/github/stars/unbug/codelf.svg)
 
 ## 数据结构与算法
 
