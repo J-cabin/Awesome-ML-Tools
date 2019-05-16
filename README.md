@@ -6,9 +6,7 @@
 
 ## 数据集
 
-1. [Papers with code](https://paperswithcode.com/)：论文+配套数据集，查找论文对应开源代码的神器。
-2. [Papers with code (Sorted by stars)](https://github.com/zziz/pwc)：收集了 AI 领域从 2013 - 2018 年所有的论文，并按照在 GitHub 上的标星数量进行排序。![](https://img.shields.io/github/stars/zziz/pwc.svg)
-3. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
+1. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
 4. [Dataset Search](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
 5. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet)：AI研习社汇总的数据集（各类）。
 6. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
@@ -67,11 +65,13 @@
 
 ## 论文
 
-1. [bestofml](https://bestofml.com/)：机器学习领域的精选书籍/课程/招聘网站/新闻博客/论文。
-2. [arxiv](https://arxiv.org/list/stat.ML/recent?ref=bestofml.com)：论文预印网站。
-3. [arxiv-sanity-preserver](http://www.arxiv-sanity.com/)：Arxiv论文分类、搜索和过滤。![](https://img.shields.io/github/stars/karpathy/arxiv-sanity-preserver.svg)
-4. [Overleaf](https://www.overleaf.com/)：在线LaTeX编辑器。
-5. [autoreject](https://autoreject.org/)：自动生成论文评审意见。
+1. [Papers with code](https://paperswithcode.com/)：论文+配套数据集，查找论文对应开源代码的神器。
+2. [Papers with code (Sorted by stars)](https://github.com/zziz/pwc)：收集了 AI 领域从 2013 - 2018 年所有的论文，并按照在 GitHub 上的标星数量进行排序。![](https://img.shields.io/github/stars/zziz/pwc.svg)
+3. [bestofml](https://bestofml.com/)：机器学习领域的精选书籍/课程/招聘网站/新闻博客/论文。
+4. [arxiv](https://arxiv.org/list/stat.ML/recent?ref=bestofml.com)：论文预印网站。
+5. [arxiv-sanity-preserver](http://www.arxiv-sanity.com/)：Arxiv论文分类、搜索和过滤。![](https://img.shields.io/github/stars/karpathy/arxiv-sanity-preserver.svg)
+6. [Overleaf](https://www.overleaf.com/)：在线LaTeX编辑器。
+7. [autoreject](https://autoreject.org/)：自动生成论文评审意见。
 
 ## 说明
 
