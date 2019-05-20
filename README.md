@@ -4,22 +4,6 @@
 1. 总结机器学习教材和课程的项目很多，但总结机器学习工具的项目似乎不多。
 2. 读了[《ARTIFICIAL INTELLIGENCE 101》](http://www.montreal.ai/ai4all.pdf)，里面介绍了一些小工具。所以突发奇想，打算不定期整理一些。
 
-## 数据集
-
-1. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
-4. [Dataset Search](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
-5. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet)：AI研习社汇总的数据集（各类）。
-6. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
-7. [Kaggle](https://www.kaggle.com/datasets)：Kaggle数据集。
-6. [TensorFlow](https://www.tensorflow.org/resources/models-datasets)：Tensorflow提供的数据集。
-7. [OpenCorporates](https://opencorporates.com/)：全球最大的公司开放数据集。
-8. [Datagv(U.S.)](https://www.data.gov/)：美国政府开放数据。
-9. [Datagv(U.K.)](https://data.gov.uk/)：英国政府开放数据。
-10. [Health Data](https://healthdata.gov/)：医药环卫类数据集。
-11. [CDC](https://www.cdc.gov/datastatistics/index.html)：健康疾控类数据集。
-12. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)：世界各国的信息数据。
-13. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5)：社会学数据集。
-
 ## 开发环境
 
 注：关于GPU选择的部分，[《Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning》](http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)写的很好。这篇文章也在2019年4月被翻译成了[中文版](http://blog.itpub.net/31562039/viewspace-2641060/)。
@@ -64,6 +48,22 @@
 1. [Visualgo](https://visualgo.net/zh)：数据结构可视化。
 2. [USF](https://www.cs.usfca.edu/~galles/visualization/)/[Algomation](http://www.algomation.com/)/[Algorithm Visualizer](https://algorithm-visualizer.org/)：算法可视化。
 3. [Graph Editor](https://csacademy.com/app/graph_editor/)：图论画板。
+
+## 数据集
+
+1. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
+2. [Dataset Search](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
+3. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet)：AI研习社汇总的数据集（各类）。
+4. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
+5. [Kaggle](https://www.kaggle.com/datasets)：Kaggle数据集。
+6. [TensorFlow](https://www.tensorflow.org/resources/models-datasets)：Tensorflow提供的数据集。
+7. [OpenCorporates](https://opencorporates.com/)：全球最大的公司开放数据集。
+8. [Datagv(U.S.)](https://www.data.gov/)：美国政府开放数据。
+9. [Datagv(U.K.)](https://data.gov.uk/)：英国政府开放数据。
+10. [Health Data](https://healthdata.gov/)：医药环卫类数据集。
+11. [CDC](https://www.cdc.gov/datastatistics/index.html)：健康疾控类数据集。
+12. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)：世界各国的信息数据。
+13. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5)：社会学数据集。
 
 ## 论文
 
