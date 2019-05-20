@@ -35,6 +35,7 @@
 2. [aiXcoder](https://www.aixcoder.com/#/)：Tensorflow代码自动补全插件（PyCharm）。
 3. [nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)：Jupyter Notebook插件合集。![](https://img.shields.io/github/stars/ipython-contrib/jupyter_contrib_nbextensions.svg)
 4. [jupytext](https://github.com/mwouts/jupytext)：多格式导出，Jupyter Notebook与IDE联合开发神器。![](https://img.shields.io/github/stars/mwouts/jupytext.svg)
+5. [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)：Pytorch常用库合集。![](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list.svg)
 
 ## 数据集标注工具
 
