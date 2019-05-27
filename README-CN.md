@@ -43,6 +43,7 @@
 ## 编程语言
 
 1. [Awesome Data Science with Python](https://github.com/r0f1/datascience)：用Python玩数据科学的资源（库、讲义、代码段、博客等）![](https://img.shields.io/github/stars/r0f1/datascience.svg)
+2. [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)：数据科学速查手册。![](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets.svg)
 3. [Ubuntu Pastebin](https://paste.ubuntu.com/)：代码发布，方便阅读。
 4. [Try It Online](https://tio.run/#)：在线编译器，可以分享代码，支持几百种语言。
 5. [Dooccn](http://www.dooccn.com)：各种常用语言的在线编译器。

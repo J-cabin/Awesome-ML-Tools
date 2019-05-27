@@ -44,6 +44,7 @@ Why did I create this project:
 ## Programming Language
 
 1. [Awesome Data Science with Python](https://github.com/r0f1/datascience): Use Python to play data science resources (libraries, handouts, code snippets, blogs, etc.)![](https://img.shields.io/github/stars/r0f1/datascience.svg)
+3. [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets): List of Data Science Cheatsheets.![](https://img.shields.io/github/stars/FavioVazquez/ds-cheatsheets.svg)
 3. [Ubuntu Pastebin](https://paste.ubuntu.com/): Publish the code for easy reading.
 4. [Try It Online](https://tio.run/#): An online compiler that can share code and support hundreds of languages.
 5. [Dooccn](http://www.dooccn.com): Online compiler for various common languages.
