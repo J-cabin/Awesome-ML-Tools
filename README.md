@@ -1,83 +1,80 @@
-# 机器学习必备的实用工具
+# Awesome-ML-Tools
 
-中文版
+- [中文版](https://github.com/J-cabin/Awesome-ML-Tools/blob/master/README-CN.md)
 
-为什么创立此项目：
+Why did I create this project:
 
-1. 总结机器学习教材和课程的项目很多，但总结机器学习工具的项目似乎不多。
-2. 读了[《ARTIFICIAL INTELLIGENCE 101》](http://www.montreal.ai/ai4all.pdf)，里面介绍了一些小工具。所以突发奇想，打算不定期整理一些。
+1. There are many projects that summarize machine learning materials and courses, but there are not many projects that summarize machine learning tools.
+2. I read [《ARTIFICIAL INTELLIGENCE 101》](http://www.montreal.ai/ai4all.pdf), which introduces some tools. So an idea hit me that organizes more useful tools from time to time.
 
-## 开发环境
+## Development Environment
 
-注：关于GPU选择的部分，[《Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning》](http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)写的很好。这篇文章也在2019年4月被翻译成了[中文版](http://blog.itpub.net/31562039/viewspace-2641060/)。
+Note: For the GPU selection section, [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2019/04/03/which- Gpu-for-deep-learning/) is very well written. This article was also translated into [Chinese version](http://blog.itpub.net/31562039/viewspace-2641060/) in April 2019.
 
-1. [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)：在线深度学习神器。
-2. [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)：Jupyter Notebook的增强版本。
-3. [DeepmindLab](https://github.com/deepmind/lab)：AI训练实验平台。![](https://img.shields.io/github/stars/deepmind/lab.svg)
-4. [Nextjournal](https://nextjournal.com/)：自带模板、支持多语言、版本控制、多人协作、GPU可用、在线求助等功能的实验平台。
+1. [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb): Online deep learning platform.
+2. [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906): Enhanced version of Jupyter Notebook.
+3. [DeepmindLab](https://github.com/deepmind/lab): AI training experimental platform.![](https://img.shields.io/github/stars/deepmind/lab.svg)
+4. [Nextjournal](https://nextjournal.com/): Experimental platform with templates, multi-language, version control, multi-person collaboration, GPU available, online help and other functions.
 
-## 开发工具
+## Development Tools
 
-1. [xg2xg](https://github.com/jhuangtw-dev/xg2xg)：Googler总结的开发工具合集。![](https://img.shields.io/github/stars/jhuangtw-dev/xg2xg.svg)
-2. [aiXcoder](https://www.aixcoder.com/#/)：Tensorflow代码自动补全插件（PyCharm）。
-3. [nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)：Jupyter Notebook插件合集。![](https://img.shields.io/github/stars/ipython-contrib/jupyter_contrib_nbextensions.svg)
-4. [jupytext](https://github.com/mwouts/jupytext)：多格式导出，Jupyter Notebook与IDE联合开发神器。![](https://img.shields.io/github/stars/mwouts/jupytext.svg)
-5. [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)：Pytorch常用库合集。![](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list.svg)
+1. [xg2xg](https://github.com/jhuangtw-dev/xg2xg): A collection of development tools summarized by Googler.![](https://img.shields.io/github/stars/jhuangtw-dev/xg2xg.svg)
+2. [aiXcoder](https://www.aixcoder.com/#/): Tensorflow code auto-complete plugin (for PyCharm).
+3. [nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions): Jupyter Notebook plugin collection.![](https://img.shields.io/github/stars/ipython-contrib/jupyter_contrib_nbextensions.svg)
+4. [jupytext](https://github.com/mwouts/jupytext): Support multi-format export, Jupyter Notebook and IDE jointly develop tool.![](https://img.shields.io/github/stars/mwouts/jupytext.svg)
+5. [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): Pytorch common library collection.![](https://img.shields.io/github/stars/bharathgs/Awesome-pytorch-list.svg)
 
-## 数据集标注工具
+## Dataset Annotation Tools
 
-1. [LabelImg](https://github.com/tzutalin/labelImg)：目标检测（图片）标注工具。![](https://img.shields.io/github/stars/tzutalin/labelImg.svg)
-2. [精灵标注助手](http://www.jinglingbiaozhu.com/)：支持图像/文本/视频等多种标注形式。
-3. [LC-Finder](https://github.com/lc-soft/LC-Finder)：支持图像标注和目标检测的图片管理工具。![](https://img.shields.io/github/stars/lc-soft/LC-Finder.svg)
+1. [LabelImg](https://github.com/tzutalin/labelImg): Target detection (picture) annotation tool.![](https://img.shields.io/github/stars/tzutalin/labelImg.svg)
+2. [Colabeler](http://www.colabeler.com/): Support for various annotation forms such as image/text/video.
+3. [LC-Finder](https://github.com/lc-soft/LC-Finder): Image management tool that supports image annotation and target detection.![](https://img.shields.io/github/stars/lc-soft/LC-Finder.svg)
 
-## 神经网络可视化
+## Visualization
 
-1. [Tensorflow Playground](http://playground.tensorflow.org/)：Tensorflow工具集之一，用浏览器体验神经网络。![](https://img.shields.io/github/stars/tensorflow/playground.svg)
-2. [TensorSpace](https://tensorspace.org/)：用于构建神经网络3D可视化框架。![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg)
-3. [Embedding Projector](http://projector.tensorflow.org/)：Google开源的高维数据可视化工具。
-4. [Netron](https://github.com/lutzroeder/netron)：模型结构可视化。![](https://img.shields.io/github/stars/lutzroeder/netron.svg)
+1. [Tensorflow Playground](http://playground.tensorflow.org/): One of the Tensorflow toolset, using a browser to experience neural networks.![](https://img.shields.io/github/stars/tensorflow/playground.svg)
+2. [TensorSpace](https://tensorspace.org/): Used to build a neural network 3D visualization framework.![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg)
+3. [Embedding Projector](http://projector.tensorflow.org/): Google's open source high-dimensional data visualization tool.
+4. [Netron](https://github.com/lutzroeder/netron): Model structure visualization.![](https://img.shields.io/github/stars/lutzroeder/netron.svg)
+5. [PythonTutor](http://www.pythontutor.com/): Code visualization (Python, JS, Ruby, etc.).![](https://img.shields.io/github/stars/pgbovine/OnlinePythonTutor.svg)
+6. [Visualgo](https://visualgo.net/zh): Data structure visualization.
+7. [USF](https://www.cs.usfca.edu/~galles/visualization/)/[Algomation](http://www.algomation.com/)/[Algorithm Visualizer](https://algorithm-visualizer.org/): Algorithm visualization.
+8. [Graph Editor](https://csacademy.com/app/graph_editor/): Graph theory board.
 
-## 编程语言
+## Programming Language
 
-1. [PythonTutor](http://www.pythontutor.com/)：代码可视化（Python、JS、Ruby等等）。![](https://img.shields.io/github/stars/pgbovine/OnlinePythonTutor.svg)
-2. [Awesome Data Science with Python](https://github.com/r0f1/datascience)：用Python玩数据科学的资源（库、讲义、代码段、博客等）![](https://img.shields.io/github/stars/r0f1/datascience.svg)
-3. [Ubuntu Pastebin](https://paste.ubuntu.com/)：代码发布，方便阅读。
-4. [Try It Online](https://tio.run/#)：在线编译器，可以分享代码，支持几百种语言。
-5. [Dooccn](http://www.dooccn.com)：各种常用语言的在线编译器。
-6. [CodeIf](https://unbug.github.io/codelf/)：让你的变量命名不再纠结。![](https://img.shields.io/github/stars/unbug/codelf.svg)
+1. [Awesome Data Science with Python](https://github.com/r0f1/datascience): Use Python to play data science resources (libraries, handouts, code snippets, blogs, etc.)![](https://img.shields.io/github/stars/r0f1/datascience.svg)
+3. [Ubuntu Pastebin](https://paste.ubuntu.com/): Publish the code for easy reading.
+4. [Try It Online](https://tio.run/#): An online compiler that can share code and support hundreds of languages.
+5. [Dooccn](http://www.dooccn.com): Online compiler for various common languages.
+6. [CodeIf](https://unbug.github.io/codelf/): Let your variable naming no longer tangled.![](https://img.shields.io/github/stars/unbug/codelf.svg)
 
-## 数据结构与算法
+## Dataset
 
-1. [Visualgo](https://visualgo.net/zh)：数据结构可视化。
-2. [USF](https://www.cs.usfca.edu/~galles/visualization/)/[Algomation](http://www.algomation.com/)/[Algorithm Visualizer](https://algorithm-visualizer.org/)：算法可视化。
-3. [Graph Editor](https://csacademy.com/app/graph_editor/)：图论画板。
+1. [Datasetlist](https://www.datasetlist.com/): Collect various data sets such as CV, NLP, QA, and Audio.
+2. [Dataset Search](https://toolbox.google.com/datasetsearch): Google's dataset search engine.
+3. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet): The data set (various types) collected by the AI Institute.
+4. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview): A public data set aggregated by Baidu.
+5. [Kaggle](https://www.kaggle.com/datasets): Kaggle dataset.
+6. [TensorFlow](https://www.tensorflow.org/resources/models-datasets): The data set provided by Tensorflow.
+7. [OpenCorporates](https://opencorporates.com/): The world's largest company open dataset.
+8. [Datagv(U.S.)](https://www.data.gov/): US government open data.
+9. [Datagv(U.K.)](https://data.gov.uk/): UK government open data.
+10. [Health Data](https://healthdata.gov/): Medical sanitation data set.
+11. [CDC](https://www.cdc.gov/datastatistics/index.html): Health disease control data set.
+12. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/): Information data for countries around the world.
+13. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5): Sociological data set.
 
-## 数据集
+## Paper
 
-1. [Datasetlist](https://www.datasetlist.com/)：CV、NLP、QA、Audio等各类数据集汇总。
-2. [Dataset Search](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
-3. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet)：AI研习社汇总的数据集（各类）。
-4. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
-5. [Kaggle](https://www.kaggle.com/datasets)：Kaggle数据集。
-6. [TensorFlow](https://www.tensorflow.org/resources/models-datasets)：Tensorflow提供的数据集。
-7. [OpenCorporates](https://opencorporates.com/)：全球最大的公司开放数据集。
-8. [Datagv(U.S.)](https://www.data.gov/)：美国政府开放数据。
-9. [Datagv(U.K.)](https://data.gov.uk/)：英国政府开放数据。
-10. [Health Data](https://healthdata.gov/)：医药环卫类数据集。
-11. [CDC](https://www.cdc.gov/datastatistics/index.html)：健康疾控类数据集。
-12. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)：世界各国的信息数据。
-13. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5)：社会学数据集。
+1. [Papers with code](https://paperswithcode.com/): Find the paper corresponding to open source code.
+2. [Papers with code (Sorted by stars)](https://github.com/zziz/pwc): All papers from the AI field from 2013-2018 were collected and sorted according to the number of stars on GitHub.![](https://img.shields.io/github/stars/zziz/pwc.svg)
+3. [bestofml](https://bestofml.com/): Selected books/courses/recruitment sites/news blogs/papers in the field of machine learning.
+4. [arXiv](https://arxiv.org/list/stat.ML/recent?ref=bestofml.com): The pre-printed website of the paper.
+5. [arxiv-sanity-preserver](http://www.arxiv-sanity.com/): Arxiv paper classification, search and filtering.![](https://img.shields.io/github/stars/karpathy/arxiv-sanity-preserver.svg)
+6. [Overleaf](https://www.overleaf.com/): Online LaTeX editor.
+7. [autoreject](https://autoreject.org/): Automatically generate paper review comments.
 
-## 论文
 
-1. [Papers with code](https://paperswithcode.com/)：论文+配套数据集，查找论文对应开源代码的神器。
-2. [Papers with code (Sorted by stars)](https://github.com/zziz/pwc)：收集了 AI 领域从 2013 - 2018 年所有的论文，并按照在 GitHub 上的标星数量进行排序。![](https://img.shields.io/github/stars/zziz/pwc.svg)
-3. [bestofml](https://bestofml.com/)：机器学习领域的精选书籍/课程/招聘网站/新闻博客/论文。
-4. [arxiv](https://arxiv.org/list/stat.ML/recent?ref=bestofml.com)：论文预印网站。
-5. [arxiv-sanity-preserver](http://www.arxiv-sanity.com/)：Arxiv论文分类、搜索和过滤。![](https://img.shields.io/github/stars/karpathy/arxiv-sanity-preserver.svg)
-6. [Overleaf](https://www.overleaf.com/)：在线LaTeX编辑器。
-7. [autoreject](https://autoreject.org/)：自动生成论文评审意见。
 
-## 说明
-
-如果您对此项目感兴趣，请持续关注，也欢迎补充完善。
+***Note: If you are interested in this project, please keep your attention and welcome to complete it.***
