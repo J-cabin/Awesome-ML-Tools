@@ -9,7 +9,7 @@ Why did I create this project:
 
 ## Development Environment
 
-Note: For the GPU selection section, [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2019/04/03/which- Gpu-for-deep-learning/) is very well written. This article was also translated into [Chinese version](http://blog.itpub.net/31562039/viewspace-2641060/) in April 2019.
+> Note: For the GPU selection section, [《Which GPU(s) to Get for Deep Learning》](http://timdettmers.com/2019/04/03/which-Gpu-for-deep-learning/) is very well written. This article was also translated into [Chinese version](http://blog.itpub.net/31562039/viewspace-2641060/) in April 2019.
 
 1. [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb): Online deep learning platform.
 2. [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906): Enhanced version of Jupyter Notebook.
