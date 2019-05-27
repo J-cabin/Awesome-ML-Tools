@@ -33,7 +33,7 @@ Why did I create this project:
 ## Visualization
 
 1. [Tensorflow Playground](http://playground.tensorflow.org/): One of the Tensorflow toolset, using a browser to experience neural networks.![](https://img.shields.io/github/stars/tensorflow/playground.svg)
-2. [TensorSpace](https://tensorspace.org/): Used to build a neural network 3D visualization framework.![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg)
+2. [TensorSpace](https://tensorspace.org/): A 3D visualization framework for building neural networks.![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg)
 3. [Embedding Projector](http://projector.tensorflow.org/): Google's open source high-dimensional data visualization tool.
 4. [Netron](https://github.com/lutzroeder/netron): Model structure visualization.![](https://img.shields.io/github/stars/lutzroeder/netron.svg)
 5. [PythonTutor](http://www.pythontutor.com/): Code visualization (Python, JS, Ruby, etc.).![](https://img.shields.io/github/stars/pgbovine/OnlinePythonTutor.svg)

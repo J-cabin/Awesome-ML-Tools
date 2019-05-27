@@ -32,7 +32,7 @@
 ## 可视化
 
 1. [Tensorflow Playground](http://playground.tensorflow.org/)：Tensorflow工具集之一，用浏览器体验神经网络。![](https://img.shields.io/github/stars/tensorflow/playground.svg)
-2. [TensorSpace](https://tensorspace.org/)：用于构建神经网络3D可视化框架。![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg)
+2. [TensorSpace](https://tensorspace.org/)：用于构建神经网络的3D可视化框架。![](https://img.shields.io/github/stars/tensorspace-team/tensorspace.svg)
 3. [Embedding Projector](http://projector.tensorflow.org/)：Google开源的高维数据可视化工具。
 4. [Netron](https://github.com/lutzroeder/netron)：模型结构可视化。![](https://img.shields.io/github/stars/lutzroeder/netron.svg)
 5. [PythonTutor](http://www.pythontutor.com/)：代码可视化（Python、JS、Ruby等等）。![](https://img.shields.io/github/stars/pgbovine/OnlinePythonTutor.svg)
