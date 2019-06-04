@@ -40,6 +40,11 @@ Why did I create this project:
 6. [Visualgo](https://visualgo.net/zh): Data structure visualization.
 7. [USF](https://www.cs.usfca.edu/~galles/visualization/)/[Algomation](http://www.algomation.com/)/[Algorithm Visualizer](https://algorithm-visualizer.org/): Algorithm visualization.
 8. [Graph Editor](https://csacademy.com/app/graph_editor/): Graph theory board.
+9. [Netscope](https://github.com/ethereon/netscope): Quickly draw neural network structures (flexibly).![](https://img.shields.io/github/stars/ethereon/netscope.svg)
+10. [NN SVG](https://alexlenail.me/NN-SVG/index.html): Quickly plot neural networks for FCNN, LeNet, and AlexNet (SVG version).![](https://img.shields.io/github/stars/zfrenchee/NN-SVG.svg)
+11. [ConvNetDraw](https://cbovar.github.io/ConvNetDraw/): Quick Draw CNN (low resolution).![](https://img.shields.io/github/stars/cbovar/ConvNetDraw.svg)
+12. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Neural network drawing code (LaTeX).![](https://img.shields.io/github/stars/HarisIqbal88/PlotNeuralNet.svg)
+13. [draw_convnet](https://github.com/gwding/draw_convnet): Neural network drawing code (Python).![](https://img.shields.io/github/stars/gwding/draw_convnet.svg)
 
 ## Programming Language
 

@@ -39,6 +39,11 @@
 6. [Visualgo](https://visualgo.net/zh)：数据结构可视化。
 7. [USF](https://www.cs.usfca.edu/~galles/visualization/)/[Algomation](http://www.algomation.com/)/[Algorithm Visualizer](https://algorithm-visualizer.org/)：算法可视化。
 8. [Graph Editor](https://csacademy.com/app/graph_editor/)：图论画板。
+9. [Netscope](https://github.com/ethereon/netscope)：一键绘制神经网络结构（最灵活）。![](https://img.shields.io/github/stars/ethereon/netscope.svg)
+10. [NN SVG](https://alexlenail.me/NN-SVG/index.html)：一键绘制FCNN、LeNet和AlexNet的神经网络图（SVG版本）。![](https://img.shields.io/github/stars/zfrenchee/NN-SVG.svg)
+11. [ConvNetDraw](https://cbovar.github.io/ConvNetDraw/)：一键绘制CNN（低清晰度）。![](https://img.shields.io/github/stars/cbovar/ConvNetDraw.svg)
+12. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)：神经网络绘制代码（LaTeX）。![](https://img.shields.io/github/stars/HarisIqbal88/PlotNeuralNet.svg)
+13. [draw_convnet](https://github.com/gwding/draw_convnet)：神经网络绘制代码（Python）。![](https://img.shields.io/github/stars/gwding/draw_convnet.svg)
 
 ## 编程语言
 
