@@ -59,19 +59,20 @@ Why did I create this project:
 
 1. [Datasetlist](https://www.datasetlist.com/): Collect various data sets such as CV, NLP, QA, and Audio.
 2. [Dataset Search](https://toolbox.google.com/datasetsearch): Google's dataset search engine.
-3. [RecommenderSystem-DataSet](https://github.com/daicoolb/RecommenderSystem-DataSet):  Recommended System dataset.![](https://img.shields.io/github/stars/daicoolb/RecommenderSystem-DataSet.svg)
-4. [Data-SNA](https://www.aminer.cn/data-sna): Datasets for Social Network Analysis.
-5. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet): The data set (various types) collected by the AI Institute.
-6. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview): A public data set aggregated by Baidu.
-7. [Kaggle](https://www.kaggle.com/datasets): Kaggle dataset.
-8. [TensorFlow](https://www.tensorflow.org/resources/models-datasets): The data set provided by Tensorflow.
-9. [OpenCorporates](https://opencorporates.com/): The world's largest company open dataset.
-10. [Datagv(U.S.)](https://www.data.gov/): US government open data.
-11. [Datagv(U.K.)](https://data.gov.uk/): UK government open data.
-12. [Health Data](https://healthdata.gov/): Medical sanitation data set.
-13. [CDC](https://www.cdc.gov/datastatistics/index.html): Health disease control data set.
-14. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/): Information data for countries around the world.
-15. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5): Sociological data set.
+3. [Awesome-public-dataset](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of HQ open datasets.![](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets.svg)
+4. [RecommenderSystem-DataSet](https://github.com/daicoolb/RecommenderSystem-DataSet):  Recommended System dataset.![](https://img.shields.io/github/stars/daicoolb/RecommenderSystem-DataSet.svg)
+5. [Data-SNA](https://www.aminer.cn/data-sna): Datasets for Social Network Analysis.
+6. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet): The data set (various types) collected by the AI Institute.
+7. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview): A public data set aggregated by Baidu.
+8. [Kaggle](https://www.kaggle.com/datasets): Kaggle dataset.
+9. [TensorFlow](https://www.tensorflow.org/resources/models-datasets): The data set provided by Tensorflow.
+10. [OpenCorporates](https://opencorporates.com/): The world's largest company open dataset.
+11. [Datagv(U.S.)](https://www.data.gov/): US government open data.
+12. [Datagv(U.K.)](https://data.gov.uk/): UK government open data.
+13. [Health Data](https://healthdata.gov/): Medical sanitation data set.
+14. [CDC](https://www.cdc.gov/datastatistics/index.html): Health disease control data set.
+15. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/): Information data for countries around the world.
+16. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5): Sociological data set.
 
 ## Paper
 
