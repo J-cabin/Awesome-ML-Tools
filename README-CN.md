@@ -44,6 +44,7 @@
 11. [ConvNetDraw](https://cbovar.github.io/ConvNetDraw/)：一键绘制CNN（低清晰度）。![](https://img.shields.io/github/stars/cbovar/ConvNetDraw.svg)
 12. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)：神经网络绘制代码（LaTeX）。![](https://img.shields.io/github/stars/HarisIqbal88/PlotNeuralNet.svg)
 13. [draw_convnet](https://github.com/gwding/draw_convnet)：神经网络绘制代码（Python）。![](https://img.shields.io/github/stars/gwding/draw_convnet.svg)
+14. [scikit-plot](https://github.com/reiinakano/scikit-plot)：快速绘制机器学习相关图表。![](https://img.shields.io/github/stars/reiinakano/scikit-plot.svg)
 
 ## 编程语言
 

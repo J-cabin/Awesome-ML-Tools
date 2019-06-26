@@ -45,6 +45,7 @@ Why did I create this project:
 11. [ConvNetDraw](https://cbovar.github.io/ConvNetDraw/): Quick Draw CNN (low resolution).![](https://img.shields.io/github/stars/cbovar/ConvNetDraw.svg)
 12. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet): Neural network drawing code (LaTeX).![](https://img.shields.io/github/stars/HarisIqbal88/PlotNeuralNet.svg)
 13. [draw_convnet](https://github.com/gwding/draw_convnet): Neural network drawing code (Python).![](https://img.shields.io/github/stars/gwding/draw_convnet.svg)
+14. [scikit-plot](https://github.com/reiinakano/scikit-plot): Quickly draw machine learning related charts.![](https://img.shields.io/github/stars/reiinakano/scikit-plot.svg)
 
 ## Programming Language
 
