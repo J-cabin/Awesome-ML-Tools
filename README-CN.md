@@ -61,18 +61,19 @@
 2. [Dataset Search](https://toolbox.google.com/datasetsearch)：Google的数据集搜索引擎。
 3. [Awesome-public-dataset](https://github.com/awesomedata/awesome-public-datasets)：分类好的高质量数据集汇总。![](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets.svg)
 4. [RecommenderSystem-DataSet](https://github.com/daicoolb/RecommenderSystem-DataSet)：推荐系统数据集汇总。![](https://img.shields.io/github/stars/daicoolb/RecommenderSystem-DataSet.svg)
-5. [Data-SNA](https://www.aminer.cn/data-sna)：社交网络分析数据集。
-6. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet)：AI研习社汇总的数据集（各类）。
-7. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
-8. [Kaggle](https://www.kaggle.com/datasets)：Kaggle数据集。
-9. [TensorFlow](https://www.tensorflow.org/resources/models-datasets)：Tensorflow提供的数据集。
-10. [OpenCorporates](https://opencorporates.com/)：全球最大的公司开放数据集。
-11. [Datagv(U.S.)](https://www.data.gov/)：美国政府开放数据。
-12. [Datagv(U.K.)](https://data.gov.uk/)：英国政府开放数据。
-13. [Health Data](https://healthdata.gov/)：医药环卫类数据集。
-14. [CDC](https://www.cdc.gov/datastatistics/index.html)：健康疾控类数据集。
-15. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)：世界各国的信息数据。
-16. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5)：社会学数据集。
+5. [Citation Network Dataset](https://www.aminer.cn/citation)：DBLP/ACM引文数据集。
+6. [Data-SNA](https://www.aminer.cn/data-sna)：社交网络分析数据集。
+7. [Ai-Yanxishe](https://ai.yanxishe.com/page/dataSet)：AI研习社汇总的数据集（各类）。
+8. [Aistudio-dataset](https://aistudio.baidu.com/aistudio/#/datasetOverview)：Baidu汇总的公开数据集。
+9. [Kaggle](https://www.kaggle.com/datasets)：Kaggle数据集。
+10. [TensorFlow](https://www.tensorflow.org/resources/models-datasets)：Tensorflow提供的数据集。
+11. [OpenCorporates](https://opencorporates.com/)：全球最大的公司开放数据集。
+12. [Datagv(U.S.)](https://www.data.gov/)：美国政府开放数据。
+13. [Datagv(U.K.)](https://data.gov.uk/)：英国政府开放数据。
+14. [Health Data](https://healthdata.gov/)：医药环卫类数据集。
+15. [CDC](https://www.cdc.gov/datastatistics/index.html)：健康疾控类数据集。
+16. [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)：世界各国的信息数据。
+17. [Pew Internet](https://www.pewinternet.org/datasets/?_fsi=BqJ6lil5)：社会学数据集。
 
 ## 论文
 
