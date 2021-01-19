@@ -1,7 +1,5 @@
 # Awesome-ML-Tools
 
-- [中文版](https://github.com/J-cabin/Awesome-ML-Tools/blob/master/README-CN.md)
-
 Why did I create this project:
 
 1. There are many projects that summarize machine learning materials and courses, but there are not many projects that summarize machine learning tools.
@@ -29,6 +27,13 @@ Why did I create this project:
 1. [LabelImg](https://github.com/tzutalin/labelImg): Target detection (picture) annotation tool.![](https://img.shields.io/github/stars/tzutalin/labelImg.svg)
 2. [Colabeler](http://www.colabeler.com/): Support for various annotation forms such as image/text/video.
 3. [LC-Finder](https://github.com/lc-soft/LC-Finder): Image management tool that supports image annotation and target detection.![](https://img.shields.io/github/stars/lc-soft/LC-Finder.svg)
+
+## Auto-ML
+
+1. [NNI](https://github.com/microsoft/nni): a lightweight but powerful toolkit to help users **automate** [Feature Engineering](https://github.com/microsoft/nni/blob/master/docs/en_US/FeatureEngineering/Overview.rst), [Neural Architecture Search](https://github.com/microsoft/nni/blob/master/docs/en_US/NAS/Overview.rst), [Hyperparameter Tuning](https://github.com/microsoft/nni/blob/master/docs/en_US/Tuner/BuiltinTuner.rst) and [Model Compression](https://github.com/microsoft/nni/blob/master/docs/en_US/Compression/Overview.rst). ![](https://img.shields.io/github/stars/microsoft/nni.svg)
+2. [Optuna](https://github.com/optuna/optuna):  an automatic hyperparameter optimization software framework, particularly designed for machine learning.![](https://img.shields.io/github/stars/optuna/optuna.svg)
+3. [SHERPA](https://github.com/sherpa-ai/sherpa): a Python library for hyperparameter tuning of machine learning models. ![](https://img.shields.io/github/stars/sherpa-ai/sherpa.svg)
+4. [BOML](https://github.com/dut-media-lab/BOML): A Bilevel Optimization Library in Python for Meta Learning. ![](https://img.shields.io/github/stars/dut-media-lab/BOML.svg)
 
 ## Visualization
 
@@ -85,6 +90,8 @@ Why did I create this project:
 5. [arxiv-sanity-preserver](http://www.arxiv-sanity.com/): Arxiv paper classification, search and filtering.![](https://img.shields.io/github/stars/karpathy/arxiv-sanity-preserver.svg)
 6. [Overleaf](https://www.overleaf.com/): Online LaTeX editor.
 7. [autoreject](https://autoreject.org/): Automatically generate paper review comments.
+8. [Catalyzex](https://www.gugeapps.net/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil): Link all AI/ML Papers with Code.
+9. [Papers-with-video](https://github.com/amitness/papers-with-video): find video for arxiv papers. ![](https://img.shields.io/github/stars/amitness/papers-with-video.svg)
 
 
 
